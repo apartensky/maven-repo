@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>gov.nih.nlm.ncbi.www.soap</groupId>
+  <artifactId>eutils</artifactId>
+  <versioning>
+    <release>2.0</release>
+    <versions>
+      <version>2.0</version>
+    </versions>
+    <lastUpdated>20140522163716</lastUpdated>
+  </versioning>
+</metadata>
